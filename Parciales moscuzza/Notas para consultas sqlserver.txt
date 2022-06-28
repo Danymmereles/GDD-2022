@@ -1,6 +1,0 @@
-Cuando pide un maximo -> SUBSELECT
-GROUP BY se usa cuando tenes que usar un mismo codigo en diferentes tablas. Ejemplo: Un JOIN que tiene al Producto con su Factura
-ORDER BY puede usar columnas (1, 2, ...)
-Si vas a usar un GROUP BY tenes que poner el codigo y todas las columnas que vas a mostrar en el SELECT
-Cuando habla de mostrar cosas bajo una condición del SELECT es probable que se refiera a un HAVING luego de un GROUP BY. 
-Si la condición es sobre alguna cosa que no se refiere a lo que vas a mostrar, usas un WHERE
