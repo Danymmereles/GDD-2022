@@ -1,0 +1,5 @@
+Para los últimos 12 meses tomando como ultimo periodo el mes y año actual realizar una consulta SQL ordenada por mes en modo ascendente que retorne: 
+a.	Mes en letras
+b.	Año
+c.	Total Facturado
+d.	Cantidad total de ítems vendidos

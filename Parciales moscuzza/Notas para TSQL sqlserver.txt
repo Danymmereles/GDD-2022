@@ -1,0 +1,9 @@
+Si pide hacer una función -> Función
+De lo contrario hacer Procedures
+
+Los cursores hay que usarlos cuando tenes que hacer una modificación de una tabla pero es un bardo si lo querés hacer con UPDATE
+
+Atenti con la posible recursividad de la tabla Composicion y del tema de los jefes de los empleados. Las recursividades igual suelen ser fáciles
+
+Los triggers conviene ponerlos con un INSTEAD en vez de AFTER o BEFORE
+
